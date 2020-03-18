@@ -1,0 +1,46 @@
+.dacp-dissys-block{
+	margin: 10px;
+	box-shadow: 2px 2px 4px 2px #ebebeb;
+	background-color: #fff;
+	font-size: 14px;
+}
+.dacp-dissys-block .btn{
+	padding: 3px 20px;
+}
+.dacp-dissys-block .dacp-btn-white{
+	border-color: #60D8BA;
+}
+.dacp-dissys-block .dacp-btn-white:hover{
+	border-color: #00CF9B;
+}
+.dacp-dissys-block-heading{
+	background-color: #EFF5FB;
+}
+.dacp-dissys-block-heading .pull-right,
+.dacp-dissys-block-heading .pull-left{
+	padding: 10px 20px;
+}
+.dacp-dissys-block-title{
+	margin: 0;
+	padding: 10px;
+	border-bottom: 4px solid #47b2fb;
+}
+.dacp-dissys-block-body{
+	height: 300px;
+	overflow: hidden;
+	background-color: inherit;
+}
+.dissys-data{
+	padding: 2px;
+	font-size: 28px;
+	background-color: transparent;
+	color: #fff;
+}
+.dissys-note{
+	padding: 2px 10px;
+	font-size: 12px;
+	border-radius: 4px;
+	background-color: #777777;
+	color: #fff;
+	cursor: pointer;
+}

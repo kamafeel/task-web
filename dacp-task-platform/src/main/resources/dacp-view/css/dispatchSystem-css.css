@@ -1,0 +1,141 @@
+.dissys-content{
+	padding: 20px;
+}
+.dissys-path{
+	display: none;
+}
+.dissys-block .dacp-dissys-block-body{
+	height: 300px;
+}
+.dacp-dissys-block-heading .dissys-block-right{
+	padding: 6px 20px;
+}
+#realTimeMonitor .dacp-dissys-block-body > div:nth-of-type(1){
+	padding: 25px;
+	background-color: #60D8BA;
+}
+#realTimeMonitor .dacp-dissys-block-body > div:nth-of-type(1) > div,
+#realTimeMonitor .dacp-dissys-block-body > div:nth-of-type(1) > a{
+	padding: 20px 0;
+}
+#realTimeMonitor .dacp-dissys-block-body > div:nth-of-type(1) > a{
+	text-decoration: underline;
+	color: #fff;
+}
+#realTimeMonitor .dacp-dissys-block-body > div:nth-of-type(1) .dissys-note{
+	position: relative;
+	top: 20px;
+}
+#realTimeMonitor .dacp-dissys-block-body > div:nth-of-type(1) > div{
+	position: relative;
+}
+#realTimeMonitor .dacp-dissys-block-body > div:nth-of-type(1) .dacp-tag{
+	position: absolute;
+	margin-left: 20px;
+	top: 10px;
+	border-color: #fff #fff #fff transparent;
+	color: #fff;
+}
+#realTimeMonitor .dacp-dissys-block-body > div:nth-of-type(2){
+	margin: 0;
+}
+#realTimeMonitor .dacp-dissys-block-body > div:nth-of-type(1) div a,
+#realTimeMonitor .dacp-dissys-block-body > div:nth-of-type(2) a{
+	text-decoration: none;
+}
+#realTimeMonitor .dacp-dissys-block-body > div:nth-of-type(2) > .col-md-4{
+	padding: 0;
+}
+#realTimeMonitor .dacp-dissys-block-body > div:nth-of-type(2) > .col-md-4 > div{
+	position: relative;
+	padding: 20px 0;
+	border: 1px solid #ebebeb;
+	border-width: 0 1px;
+	text-align: center;
+}
+#realTimeMonitor .dacp-dissys-block-body > div:nth-of-type(2) > .col-md-4 > div > p:first-of-type{
+	padding: 10px;
+	margin: 10px 0 0;
+}
+#realTimeMonitor .dacp-dissys-block-body > div:nth-of-type(2) > .col-md-4 > div .dacp-tag{
+	margin-left: 0;
+}
+#realTimeMonitor .dacp-dissys-block-body > div:nth-of-type(2) > .col-md-4 > div > .btn{
+	position: absolute;
+	top: 10px;
+	right: 10px;
+}
+#realTimeMonitor .dacp-dissys-block-body > div:nth-of-type(2) .dissys-data{
+	color: #b3b3b3;
+	font-size: 20px;
+}
+#realTimeMonitor .dacp-dissys-block-body > div:nth-of-type(2) .dissys-data + .fa{
+	font-size: 20px;
+}
+#systemInfo .dacp-list{
+	height: 100%;
+	overflow-y: auto;
+}
+#missonTrend .dacp-dissys-block-heading .nav{
+	border-bottom: 0;
+}
+#missonTrend .dacp-dissys-block-heading .nav li a{
+	padding: 3px 5px;
+	border: 0;
+	border-radius: 2px;
+	background-color: transparent;
+	color: #777;
+}
+#missonTrend .dacp-dissys-block-heading .nav li:hover a,
+#missonTrend .dacp-dissys-block-heading .nav li.active a{
+	background-color: #47B2FB;
+	color: #fff;
+}
+#missonTrend .tab-pane{
+	width: 100%;
+	height: 300px;
+	overflow: auto;
+}
+.dissys-imgwrapper{
+	height: 300px;
+	width: 100%;
+}
+#missonTrend .tab-pane img{
+	position: relative;
+	top: 50%;
+	-webkit-transform: translateY(-50%);
+	-moz-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	-o-transform: translateY(-50%);
+	transform: translateY(-50%);
+	display: block;
+	margin: 0 auto;
+	line-height: 100%;
+	width: 100%;
+	max-width: 660px;
+	vertical-align: middle;
+}
+#missonMonitor .dacp-table,
+#missonMonitor .table{
+	width: 100%;
+	max-height: 300px;
+	margin: 0;
+	overflow: auto;
+}
+#missonMonitor .dacp-table td .btn{
+	display: inline-block;
+	padding: 3px 10px;
+	min-width: 56px;
+	border-radius: 4px;
+	border-color: initial;
+}
+#missonMonitor .dacp-table tbody td{
+	vertical-align: middle;
+}
+#missonMonitor .dacp-table .table-bordered > tbody > tr > td:last-of-type{
+	border-right-color: transparent;
+}
+
+
+
+
